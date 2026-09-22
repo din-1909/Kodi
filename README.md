@@ -233,4 +233,4 @@ Kodi is a fully free version of the software, including all features and updates
 Experience Kodi today and unlock the full potential of your multimedia library! Download now and enjoy endless entertainment options.
 
 ---
-**Last updated:** 2026-09-22 15:18:18 UTC
+**Last updated:** 2026-09-22 19:26:13 UTC
